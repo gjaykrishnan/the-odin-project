@@ -1,1 +1,3 @@
-# the-odin-project
+# The odin project
+
+Documenting the progress in The Odin Project 💪🏽
